@@ -1,2 +1,3 @@
 # bap-ocr
-用于总力战识别的后端
+用于总力战识别
+rco是web后端，ocr是ocr（
